@@ -1,0 +1,6 @@
+user*user@gmail.com*user
+sufian*sufian@gmail.com*123
+admin*admin@gmail.com*123
+wasif*asdf*zxcv
+admin*1qaz*1qaz
+rahid*rahid@gmail.com*123
